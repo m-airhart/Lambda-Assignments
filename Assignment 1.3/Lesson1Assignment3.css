@@ -1,0 +1,57 @@
+html {
+    width: 100%;
+    height: 78%;
+}
+
+body {  
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    margin: 0 auto;
+}
+
+#container1{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.top{
+    width: 100%;
+    height: 15%;
+    background-color: purple;
+}
+
+.middle{
+    background-color: red;
+    height: 100%;
+    position: fixed;
+    left: 15%;
+    right: 15%;
+}
+
+#boxset{
+    background-color: blue;
+    height: 25%;
+    width 10%;
+    margin: 8%;
+    padding: 5%;
+}
+
+.yellowbox{
+    background-color: yellow;
+    height: 60%;
+    width: 25%;
+    float: left;
+}
+
+.greenbox{
+    background-color: green;
+    height: 90%;
+    width: 70%;
+    float: right;
+    
+    
+    
+
+}
